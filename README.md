@@ -1,6 +1,6 @@
-Here's the README for your **Automated Data Lineage & Compliance Reporting** accelerator:
 
----
+
+
 
 # Automated Data Lineage & Compliance Reporting
 
